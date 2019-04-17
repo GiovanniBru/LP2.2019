@@ -1,0 +1,17 @@
+Fontes:
+http://linguagemc.com.br/arquivos-em-c-categoria-usando-arquivos/
+https://pt.stackoverflow.com/questions/272801/como-converter-string-para-o-tipo-int-em-c
+https://www.ime.usp.br/~pf/algoritmos/aulas/solucoes/io1.html
+https://pt.stackoverflow.com/questions/233913/copiar-de-arquivo-txt-para-o-outro
+https://www.systutorials.com/240978/how-to-get-the-size-of-a-file-in-c/
+
+chdir:  
+	https://www.computerhope.com/unix/uchdir.htm
+	http://www.tutorialspoint.com/unix_system_calls/chdir.htm
+	https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/rtchd.htm
+
+fscanf: 
+	http://mtm.ufsc.br/~azeredo/cursoC/aulas/c980.html
+
+feof:
+	http://www.cmaismais.com.br/referencia/cstdio/feof/
